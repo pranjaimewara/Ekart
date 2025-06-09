@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "628852872776",
+    "project_id": "aproject-f289a",
+    "storage_bucket": "aproject-f289a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628852872776:android:85a8b60fece52a35346a7d",
+        "android_client_info": {
+          "package_name": "com.ekart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628852872776-lv5ftf2f7bfahmbmk0eifi8etkh296te.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ekart",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "628852872776-5bg62348jrgmta5k0uf79mcj9svhf0bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmQ5zKsJQbaiAUQlLJQnbj6Vlr1q5g9dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628852872776-5bg62348jrgmta5k0uf79mcj9svhf0bf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
